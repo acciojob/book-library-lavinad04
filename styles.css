@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+.container{
+	background-color: #eeeeee;
+	width: 600px;
+	height: 1200px;
+	display: flex;
+	justify-content: center;
+	box-shadow:
+}
+
+#img{
+	align-items: center;
+}
+
+#btn{
+	background-color: #2dcb70;
+	width: 500px;
+	color: white;
+	border: 2px solid #2dcb70;
+	border-radius: 5px;
+	height: 30px;
+}
+
+.book{
+	text-align: left;
+	
+}
