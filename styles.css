@@ -2,23 +2,23 @@ body{
 	background-color: #f8f8f8;
 }
 #container{
-	width: 600px;
-	height: 1400px;
-	border: 2px solid #ffffff;
-	border-radius: 5px;
-	background-color: #ffffff;
-	box-shadow: 1px 1px 5px black;
 }
 
 h1{
 	text-align: center;
 }
-#book-library>img{
+.book-library>img{
 	justify-content: center;
 }
 
-#book-library{
+.book-library{
+	width: 600px;
+	height: 1450px;
+	border: 2px solid #ffffff;
+	border-radius: 10px;
+	background-color: #ffffff;
 	padding: 20px;
+	box-shadow: 1px 1px 5px black;
 }
 
 .book>img{
@@ -27,7 +27,7 @@ h1{
 	height: 300px;
 	align-items: center;
 	color: #777777;
-	padding-left: 180px;
+	padding-left: 200px;
 }
 
 button{
