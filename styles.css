@@ -10,9 +10,6 @@ body{
 h1{
 	text-align: center;
 }
-.book-library>img{
-	justify-content: center;
-}
 
 .book-library{
 	width: 600px;
@@ -25,26 +22,20 @@ h1{
 }
 
 .book>img{
-	justify-content: center;
-	width: 200px;
-	height: 300px;
-	align-items: center;
 	color: #777777;
-	margin-top: 10px;
 	padding-left: 200px;
 }
-
-button{
-	
-	
+.author{
+    color: #777777;
 }
 
-.price-background{
+.price{
 	background-color: rgb(46, 204, 113);
 	border-radius: 5px;
-	color: rgb(119, 119, 119);
+	color: rgb(255,255,255);
 	padding: 5px;
-	width: 600px;
+	padding-left: 300px;
+	width: 300px;
 	margin-top: 0px;
 	margin-bottom: 10px;
 	color: white;
