@@ -31,12 +31,21 @@ h1{
 }
 
 button{
-	padding: 10px;
+	padding: 8px;
 	width: 550px;
 	margin-top: 0px;
 	margin-bottom: 10px;
 	color: white;
 	background-color:#2ecc71;
 	border: 2px solid #2ecc71;
-	border-radius: 5px;
+	
 }
+
+.price-background{
+	background-color: rgb(46, 204, 113);
+	color: white;
+	border-radius: 5px;
+	color_author: rgb(119, 119, 119);
+}
+
+
