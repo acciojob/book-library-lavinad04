@@ -27,11 +27,12 @@ h1{
 	height: 300px;
 	align-items: center;
 	color: #777777;
+	margin-top: 10px;
 	padding-left: 200px;
 }
 
 button{
-	padding: 8px;
+	padding: 5px;
 	width: 550px;
 	margin-top: 0px;
 	margin-bottom: 10px;
@@ -43,9 +44,8 @@ button{
 
 .price-background{
 	background-color: rgb(46, 204, 113);
-	color: white;
 	border-radius: 5px;
-	color_author: rgb(119, 119, 119);
+	color: rgb(119, 119, 119);
 }
 
 
